@@ -9,6 +9,7 @@ Information System at Hanyang University [2016.03 ~ 2023.08]
 - 삼성 청년 SW 아카데미 [2025.01~]
 - 두산로보틱스 Dart-Platform팀 인턴사원 [2024.02~2024.07] 
 - 삼성전자 DS부문 SolutionPE팀 인턴사원(실습생) [2023.03~2023.06]
+- Google Developer Students Club Hanyang 멤버 [2022.08~2023.07]
 - 2022 월드프렌즈코리아ICT봉사단 베트남팀 팀장 [2022.07~2022.08]
 
 ✉️ Contacts
