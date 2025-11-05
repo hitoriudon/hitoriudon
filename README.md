@@ -14,12 +14,12 @@ Information System at Hanyang University [2016.03 ~ 2023.08]
 
 ### ✉️ Contacts
 
-Email: tjrcjf9@gmail.com
+- Email: tjrcjf9@gmail.com
 
-PortFolio: https://leesukcheol.info
+- PortFolio: https://leesukcheol.info
   
 ###  :clipboard: Once I've Used 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 
 ### :pencil2: My logs
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrcjf9)](https://solved.ac/백준아이디/)
